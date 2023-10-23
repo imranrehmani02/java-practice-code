@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"mrgin",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"sec",
+				"section\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"fo",
+				"font\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"pl",
+				"placeholder"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"c",
+				"Colour"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"cl",
+				"color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Java/Parkhya Solution/Web Pages/List1.html",
+		"/D/Java/Parkhya Solution/Web Pages/lp2.css",
+		"/D/Java/Parkhya Solution/Web Pages/lp2.html",
+		"/D/Java/Parkhya Solution/Web Pages/lp1.css",
+		"/D/Java/Parkhya Solution/Web Pages/lp1.html",
+		"/D/Java/Parkhya Solution/Web Pages/layout.css",
+		"/D/Java/Parkhya Solution/Web Pages/layout.html",
+		"/D/Java/Parkhya Solution/Web Pages/style.css",
+		"/D/Java/Parkhya Solution/Web Pages/html2.html",
+		"/D/Java/Parkhya Solution/Web Pages/html1.html",
+		"/D/Java/Parkhya Solution/Web Pages/media.html",
+		"/D/Java/Parkhya Solution/Web Pages/iframe.html",
+		"/D/Java/Parkhya Solution/Web Pages/Ek_Raat.mp3",
+		"/C/Users/My/Desktop/html/resume.html",
+		"/D/Java/Parkhya Solution/Web Pages/form1.html",
+		"/D/Java/Practice/Web Pages/One.html",
+		"/D/Java/Practice/Web Pages/table.html",
+		"/D/Web Pages/web1.html",
+		"/C/web pages/New Adv. Java Class/js new3.html",
+		"/C/web pages/New Adv. Java Class/external.css",
+		"/C/web pages/New Adv. Java Class/externalcss.html",
+		"/C/web pages/New Adv. Java Class/css.html",
+		"/C/web pages/New Adv. Java Class/even odd.html",
+		"/C/web pages/New Adv. Java Class/temp.html",
+		"/C/web pages/New Adv. Java Class/js new2.html",
+		"/C/web pages/New Adv. Java Class/js new1.html",
+		"/C/web pages/New Adv. Java Class/tform.html",
+		"//IMRAN-PC/Users/My/Desktop/web pages/form1.html",
+		"/C/web pages/second2.html",
+		"/C/web pages/new form imran.html",
+		"/C/web pages/ayu.html",
+		"//IMRAN-PC/Users/My/Desktop/web pages/newsubline.html",
+		"//IMRAN-PC/Users/My/Desktop/web pages/javascript.html",
+		"//IMRAN-PC/Users/My/Desktop/web pages/home.html",
+		"//IMRAN-PC/Users/My/Desktop/web pages/webpractice.html",
+		"//IMRAN-PC/Users/My/Desktop/web pages/jsalert.html",
+		"/C/Practice Java/subline.java"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web1.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<meta charset="ISO-8859-1">  
+<title>Developer List</title>  
+</head>  
+<body>  
+  
+<h1 align='center'>Add New Employee</h1>  
+<form action="SaveServlet" method="post">  
+<table align='center' border='2px' cellpadding='5px'>  
+<tr><td>ID: </td><td><input type="number" required name="id"></td></tr>
+<tr><td>Name: </td><td><input type="text" required name="name"/></td></tr>  
+<tr><td>Salary: </td><td><input type="number" required name="salary"/></td></tr>  
+<tr><td>Email: </td><td><input type="email" required name="email"/></td></tr>  
+<tr><td>City: </td><td>  
+<select name="city" required style="width:150px">
+<option></option>  
+<option>Indore</option>  
+<option>Ratlam</option>  
+<option>Bhopal</option>  
+<option>Ujjain</option>      
+<option>Other</option>  
+</select>  
+</td></tr>  
+<tr><td><input type="submit" value="Save Employee"/></td></tr>
+<tr><td><a href="ViewServlet" align='center'>view employees List</a></td></tr>    
+</table>  
+</form>  
+  
+</body>  
+</html>  
+ 

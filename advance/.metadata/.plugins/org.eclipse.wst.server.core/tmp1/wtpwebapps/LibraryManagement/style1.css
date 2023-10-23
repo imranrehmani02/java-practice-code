@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+*
+{
+	margin:0px;
+	padding:0px;
+	
+}
+
+header
+{
+	height:150px;
+	width:100%;
+	background-color:#9AA8AD;
+	}
+	
+	form
+	{
+	background:rgba(197, 195, 213, 0.8);
+	height:80px;
+	width:25%;
+	}
+	
+#one
+{
+	height:4632px;
+	width: 100%;
+	align:center;
+	background-image:url("lb_login.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+}	

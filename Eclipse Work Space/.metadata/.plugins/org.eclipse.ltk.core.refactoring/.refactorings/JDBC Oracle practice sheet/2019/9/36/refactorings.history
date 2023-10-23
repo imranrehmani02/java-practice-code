@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Jdbc5.java&apos; to &apos;EUtil.java&apos;&#x0D;&#x0A;- Original project: &apos;JDBC Oracle practice sheet&apos;&#x0D;&#x0A;- Original element: &apos;Jdbc5.java&apos;&#x0D;&#x0A;- Renamed element: &apos;EUtil.java&apos;" description="Rename compilation unit &apos;Jdbc5.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Jdbc5.java" name="EUtil.java" references="false" stamp="1567841052622" version="1.0"/>
+</session>

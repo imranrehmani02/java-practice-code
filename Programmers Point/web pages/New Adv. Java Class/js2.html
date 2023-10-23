@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js</title>
+</head>
+<body>
+<p id="p1">this is a para</p>
+<img src="" id="i1">
+<button onclick="val()">change color</button>
+<button onclick="show()">show image</button>
+<button onclick="hide()">hide image</button>
+<script>
+	/*function val() {
+		document.getElementById('p1').innerHTML="para changed";
+	}*/
+function val() {
+	document.getElementById('p1').style.color="blue";
+}
+function show() {
+	document.getElementById('i1').src="Koala.jpg";
+}
+function hide() {
+	document.getElementById('i1').src="";
+}
+</script>
+</body>
+</html>

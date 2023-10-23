@@ -1,0 +1,50 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+header
+{
+	height: 80px;
+	width: 100%;
+	background-color: skyblue;
+}
+
+#border
+{
+	height: 2px;
+	width: 100%;
+	background-color: black;
+}
+
+nav
+{
+	height: 30px;
+	width: 100%;
+	background-color: yellow;
+}
+
+#one
+{
+	height: 500px;
+	width: 80%;
+}
+
+#left
+{
+	height: 500px;
+	width: 25%;
+	background-color: blue;
+	float:left;
+	margin-left: 10%;
+}
+
+#right
+{
+	height:500px;
+	width: 80%;
+	background-color: green;
+	margin-left: 35%;
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\Java\advance\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\661973633.index
+\Ecommerce\src
+D:\Java\advance\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2855883065.index
+\JSP practice\src
+D:\Java\advance\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\692270824.index
+\LibraryManagement\src
+D:\Java\advance\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\339491524.index
+\Ecom\src

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSP practice/WebContent/jspi41NewFile.jsp&apos; to &apos;jspi41.jsp&apos;" description="Rename resource &apos;jspi41NewFile.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/jspi41NewFile.jsp" name="jspi41.jsp" stamp="1570560857643" updateReferences="true"/>
+</session>

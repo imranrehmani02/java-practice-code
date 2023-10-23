@@ -1,0 +1,12 @@
+127.0.0.1 - - [04/Aug/2019:17:04:15 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:04:17 +0530] "GET /Ecommerce/ HTTP/1.1" 200 231
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:01 +0530] "GET /Ecommerce/admin.html HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:09 +0530] "GET /Ecommerce/Alogin?id=admin&pwd=16254565 HTTP/1.1" 200 335
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:18 +0530] "GET /Ecommerce/Alogin?id=admin&pwd=123456 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:18 +0530] "GET /Ecommerce/adminhome.html HTTP/1.1" 200 354
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:24 +0530] "GET /Ecommerce/show HTTP/1.1" 200 1294
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:44 +0530] "GET /Ecommerce/ulogin.html HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:05:47 +0530] "GET /Ecommerce/uregs.html HTTP/1.1" 200 321
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:06:06 +0530] "GET /Ecommerce/Uregs?name=nazim&email=nazim@y.com&password=123456 HTTP/1.1" 200 335
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:06:25 +0530] "GET /Ecommerce/Ulogin?email=nazim@y.com&password=123456 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:17:06:25 +0530] "GET /Ecommerce/Uhome HTTP/1.1" 200 92

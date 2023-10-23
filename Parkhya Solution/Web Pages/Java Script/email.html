@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Email Validation</title>
+	<script type="text/javascript">
+		function valid()
+		{
+			var a=document.getElementById('mail').value;
+			if(a.indexOf('@') == -1)
+			{
+				alert("@ is missing");
+				return false;
+			}
+
+			// if(a=="")
+			// {
+			// 	alert("please enter email");
+			// 	return false;
+			// }
+
+			if(a.indexOf('.')==-1)
+			{
+				alert(". is missing");
+				return false;
+			}
+
+			if(a.indexOf('.')==a.length-1)
+			{
+				alert(". cant be at last place");
+				return false;
+			}
+
+			if(a.indexOf('.')==0)
+			{
+				alert(". cant be at first place");
+				return false;
+			}
+
+			if(a.indexOf('@')==0) 
+			{
+				alert("@ cant be at first place");
+				return false;
+			}
+
+			if(a.indexOf('@')==a.length-1) 
+			{
+				alert("@ cant be at last place");
+				return false;
+			}
+
+			if(a.indexOf('@')== a.indexOf('.') -1)
+			{
+				alert("@ & . cant be together");
+				return false;
+			}
+
+			if(a.indexOf('@')== a.indexOf('.') +1)
+			{
+				alert("@ & . cant be together");
+				return false;
+			}
+		}
+	</script>
+</head>
+<body>
+<form action="data.html" method="POST" onsubmit="return valid()">
+		<input type="text" name="email" id="mail">
+		<input type="submit" value="Enter" name="save">
+	</form>
+</body>
+</html>

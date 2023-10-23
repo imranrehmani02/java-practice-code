@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JDBC Oracle practice sheet/src/test2.properties&apos; to &apos;test2.txt&apos;" description="Rename resource &apos;test2.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test2.properties" name="test2.txt" stamp="1568267925456" updateReferences="true"/>
+</session>

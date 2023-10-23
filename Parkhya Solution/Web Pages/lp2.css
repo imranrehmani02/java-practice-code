@@ -1,0 +1,166 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+#topbar
+{
+height: 50px;
+width: 100%;
+background-color: gray;
+}
+
+header
+{
+height: 100px;
+width: 100%;
+background: red;
+}
+
+#one
+{
+	height: 300px;
+	width: 100%;
+	float: top;
+}
+
+
+#one1
+{
+	height: 300px;
+    width: 25%;
+	background: blue;
+	float:left;
+}
+
+#one02
+{
+	height: 300px;
+	width: 50%;
+	float: left;
+}
+
+#one2
+{
+	height: 80px;
+    width: 100%;
+	background: skyblue;
+	float: left;
+	margin-left: 0px;
+}
+
+#one3
+{
+	height: 140px;
+    width: 50%;
+	background: orange;
+	float:left;
+	}
+
+#one4
+{
+	height: 140px;
+    width: 50%;
+	background: yellow;
+	float: left;
+}
+
+#one5
+{
+    height: 80px;
+    width: 100%;
+	background: skyblue;
+	float: left;
+}
+
+#one6
+{
+	height: 300px;
+    width: 25%;
+	background: blue;
+	float: left;	
+}
+
+#two
+{
+	height: 300px;
+	width: 100%;
+	float: top;
+}
+
+#two01
+{
+	height: 300px;
+	width: 20%;
+	float: left;
+}
+
+#two1
+{
+	height: 150px;
+	width: 100%;
+	background-color:red;
+	float: top;
+}
+
+#two2
+{
+	height: 150px;
+	width: 100%;
+	background-color: grey;
+	float: left;
+}
+
+#two02
+{
+	height: 300px;
+	width: 40%;
+	background-color: yellow;
+	float: left;
+}
+
+#two03
+{
+	height: 300px;
+	width: 40%;
+	float: left;
+}
+
+#two3
+{
+	height: 100px;
+	width: 100%;
+	float: left;
+	background-color: pink;
+}
+
+#two04
+{
+	height: 200px;
+	width: 100%;
+	float: left;
+}
+
+#two4
+{
+	height: 200px;
+	width: 50%;
+	float: left;
+	background-color: purple;
+}
+
+#two5
+{
+	height: 200px;
+	width: 50%;
+	float: left;
+	background-color: green;
+}
+
+footer
+{
+	height: 100px;
+	width: 100%;
+	background-color: #0a4563;
+}

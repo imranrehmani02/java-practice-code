@@ -1,0 +1,32 @@
+h1
+{
+	color: yellow;
+}
+body
+{
+	background-color: grey;
+}
+p
+{
+	font-size: 25px;
+	color: blue;
+}
+div p
+{
+	color: white;
+}
+div
+{
+	height: 90px;
+	width: 100%;
+	background-color: blue;
+}
+
+#p1
+{
+	color: red;
+}
+.p2
+{
+	color: blue;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		function add()
+		{
+			document.getElementById('one').style.background="red";
+			document.getElementById('one').style.color="yellow";
+			document.getElementById('one').style.width="165px";
+		}
+
+		function add1()
+		{
+			document.getElementById('one').style.background="pink";
+			document.getElementById('one').style.color="blue";
+			document.getElementById('one').style.width="165px";
+		}
+
+		function add2()
+		{
+			document.getElementById('one').style.background="white";
+			document.getElementById('one').style.color="black";
+		}
+	</script>
+</head>
+<body>
+		<h1 id="one">Java Script</h1>
+
+		<button onclick="add()" id="one">Style 1</button>
+		<button onclick="add1()" id="one">Style 2</button>
+		<button onclick="add2()" id="one">Remove Style</button>
+		</body>
+</html>

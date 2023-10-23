@@ -1,0 +1,3 @@
+Static block doesnt support in inheritance(child class).
+
+static method doesnt over ride.

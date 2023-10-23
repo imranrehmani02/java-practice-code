@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script>
+		function val() {
+			document.write("even");
+			var nm=document.getElementById("nm").value;
+			nm=parseInt(nm);
+			if(nm%2==0)
+			{
+			//window.alert("even");	
+			document.write("even");
+			}
+			else
+			{
+			//document.write("odd");
+			window.alert("odd");	
+			}
+			
+		}
+	</script>
+	<title></title>
+</head>
+<body>
+<form>
+	NUM<input type="text" name="n" id="nm" />
+	<button onclick="val()">click me</button>
+</form>
+</body>
+</html>

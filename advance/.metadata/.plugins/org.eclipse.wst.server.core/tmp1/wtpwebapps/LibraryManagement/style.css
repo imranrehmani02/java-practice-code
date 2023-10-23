@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+*
+{
+	margin:0px;
+	padding:0px;
+	
+}
+
+header
+{
+height:80px;
+	width:100%;
+	background-color:#B8E3ED;
+	}
+
+#h1
+{
+	align:center-middle;
+	color:#4A3C78;
+	size:50px;
+	
+}
+
+#nav
+{
+	height:80px;
+	width:100%;
+	background-color:#E3F0F3;
+	
+}
+
+#one
+{
+	height:4634px;
+	width: 100%;
+	background-image: url("library_homepage.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}

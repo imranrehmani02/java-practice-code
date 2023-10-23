@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Validation</title>
+	<script type="text/javascript">
+		function valid()
+		{
+			 var a=document.getElementById('one').value;
+			if(a=="")
+			{
+				alert("please enter name");
+				return false;
+			}
+			if(a.length<3)
+			{
+				alert('name is short');
+				return false;
+			}
+			if(!isNaN(a))
+			{
+				alert('enter text only in name field');
+				return false;
+			}
+
+			var b=document.getElementById('two').value;
+			if(b=="")
+			{
+				alert("please enter email");
+				return false;
+			}
+
+			var c=document.getElementById('three').value;
+			if(c=="")
+			{
+				alert("please enter Password");
+				return false;
+			}
+
+			if(c.length<5)
+			{
+				alert('password is short');
+				return false;
+			}
+
+		
+
+			var d=document.getElementById('four').value;
+			if(d=="")
+			{
+				alert("please enter Contact No.");
+				return false;
+			}
+
+			if(isNaN(d))
+			{
+				alert('enter numbers only in contact field');
+				return false;
+			}
+
+			var e=document.getElementById('five').value;
+			if(e=="")
+			{
+				alert("please enter DOB");
+				return false;
+			}
+
+			var f=document.getElementById('six').value;
+			if(f=="")
+			{
+				alert("please choose file");
+				return false;
+			}
+
+			var g=document.getElementById('seven');
+			var g1=document.getElementById('seven1');
+			if(g.checked==false && g1.checked==false)
+			{
+				alert("please choose Gender option");
+				return false;
+			}
+
+			var h=document.getElementById('eight');
+			var h1=document.getElementById('eight1');
+			var h2=document.getElementById('eight2');
+			var h3=document.getElementById('eight3');
+			if(h.checked==false && h1.checked==false && h2.checked==false && h3.checked==false)
+			{
+				alert("please choose hobbies");
+				return false;
+			}
+
+			var i=document.getElementById('nine').value;
+			if(i=="")
+			{
+				alert("please choose your city");
+				return false;
+			}
+
+			var j=document.getElementById('ten').value;
+			if(j=="")
+			{
+				alert("please mention Address");
+				return false;
+			}
+
+			if(j.length<10)
+			{
+				alert("address is too short");
+				return false;
+			}
+		}
+	</script>
+</head>
+<body>
+
+<form action="One.html" method="POST" onsubmit="return valid()">
+	<h1 align="center">Registration Form</h1>
+		<table align="center" border="1px">	
+	<tr><td>Name </td>
+	<td><input type="text" name="fname" placeholder="please enter name" size="30" maxlength="25" id="one"></td></tr>
+	
+
+	<tr><td>Email </td>
+	<td><input type="email" name="femail" placeholder="please enter email" id="two"></td></tr>
+	
+
+	<tr><td>Password </td>
+	<td><input type="PassWord" name="fpassword" id="three">     </td></tr>
+	
+
+	<tr><td>Contact </td>
+	<td><input type="number" name="fcont" id="four"></td></tr>
+
+	<tr><td>DOB </td>
+	<td><input type="date" name="fdob" id="five"></td></tr>
+
+
+	<tr><td>Profile </td>
+	<td><input type="file" name="fpic" id="six"></td></tr>
+	
+
+	<tr><td>Gender </td>
+	<td><input type="radio" name="gen" value="male" id="seven">MALE
+	<input type="radio" name="gen" value="female" id="seven1">FEMALE</td></tr>
+
+	<tr><td>Hobby </td>
+
+	<td><input type="checkbox" name="hob[]" value="reading" id="eight">Reading
+	<input type="checkbox" name="hob[]" value="Coding" id="eight1">Coding
+	<input type="checkbox" name="hob[]" value="Listening Songs" id="eight2">Listening Songs
+	<input type="checkbox" name="hob[]" value="Writing" id="eight3">Writing
+	</td></tr>
+	
+
+	<tr><td>City </td>
+	<td><select id="nine">
+		<option value="">select</option>
+		<option>Indore</option>
+		<option>Ratlam</option>
+		<option>Bhopal</option>
+	</select></td></tr>
+	
+
+	<tr><td>Address </td>
+	<td><textarea id="ten"></textarea></td></tr>
+
+	<tr><td><input type="Submit" name="save" value="Register"></td>
+	<td><input type="reset" name="clear" value="Clear All"></td></tr>
+</table>
+</form>
+</body>
+</html>

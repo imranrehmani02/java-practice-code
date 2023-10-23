@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Java\Eclipse Work Space\Ecom"/>
+		<item value="C:\Users\My\eclipse-workspace\Ecom"/>
+		<item value="C:\Users\My\eclipse-workspace\Ecommerce"/>
+		<item value="D:\Java\Eclipse Work Space\Access Modifiers\src"/>
+		<item value="D:\Java\Eclipse Work Space\Access Modifiers"/>
+		<item value="D:\Java\Eclipse Work Space\Encapsulation"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="340"/>
+		<item key="DIALOG_Y_ORIGIN" value="119"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

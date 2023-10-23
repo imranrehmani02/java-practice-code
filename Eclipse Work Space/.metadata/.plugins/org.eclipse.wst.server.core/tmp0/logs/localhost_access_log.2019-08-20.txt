@@ -1,0 +1,15 @@
+127.0.0.1 - - [20/Aug/2019:23:29:45 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:29:47 +0530] "GET /Ecom/ HTTP/1.1" 200 533
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:29:48 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:29:52 +0530] "GET /Ecom/admin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:29:59 +0530] "GET /Ecom/Alogin.jsp?id=admin&password=1234 HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:06 +0530] "GET /Ecom/Alogin.jsp?id=admin&password=123456 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:06 +0530] "GET /Ecom/adminhome.jsp HTTP/1.1" 200 249
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:10 +0530] "GET /Ecom/Show.jsp HTTP/1.1" 200 1599
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:17 +0530] "GET /Ecom/UpdatePro.jsp?name=Dell%20d250&price=33000&category=LAPTOP&company=DELL HTTP/1.1" 200 546
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:29 +0530] "GET /Ecom/Ulogin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:36 +0530] "GET /Ecom/Ulogin.jsp?email=mir%40m.com&password=123456 HTTP/1.1" 200 2036
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:40 +0530] "GET /Ecom/showcart.jsp HTTP/1.1" 200 482
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:50 +0530] "GET /Ecom/logout.jsp HTTP/1.1" 500 338
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:52 +0530] "GET /Ecom/Uregs.html HTTP/1.1" 200 324
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:23:30:59 +0530] "GET /Ecom/logout.jsp HTTP/1.1" 500 338

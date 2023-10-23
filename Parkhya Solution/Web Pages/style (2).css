@@ -1,0 +1,112 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+header
+{
+	height: 100px;
+	width: 100%;
+	background: gray;
+	border-top:5px red groove;
+	margin-bottom: 3px;
+}
+nav
+{
+	height: 60px;
+	width: 100%;
+	background: pink;
+	margin-bottom: 3px;
+}
+#one
+{
+	height: 450px;
+	width: 30%;
+	background: orange;
+	float: left;
+	overflow: auto;
+}
+#two
+{
+	height: 450px;
+	width: 40%;
+	background-image: url("rahman.jpg");
+	background-repeat: no-repeat;
+
+    background-size: 100% 100%;
+
+    float: left;
+}
+#three
+{
+	height: 450px;
+	width: 30%;
+	background: skyblue;
+	margin-left: 70%;
+	background-image: url("rahman.jpg");
+	background-repeat: no-repeat;
+	background-position: none;
+    background-size: 100% 100%;
+
+}
+footer
+{
+	height: 100px;
+	width: 100%;
+	background: black;
+}
+header h1
+{
+	position: relative;
+	top:20px;
+	font-size: 50px;
+	text-shadow: 10px 10px 4px red;
+
+}
+header img
+{
+	position: relative;
+	top:-50px;
+	left: 30%;
+	border-radius: 100px;
+	border-bottom: yellow 4px groove;
+}
+nav a
+{
+	color:white;
+	background: black;
+	font-size: 25px;
+	padding:6px;
+	position: relative;
+	top:15px;
+	left: 100px;
+	text-decoration:none;
+	border-bottom: 3px red groove;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin-left: 50px;
+}
+nav a:hover
+{
+	color:black;
+	background: orange;
+	border-top: 3px red groove;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#image
+{
+	height: 300px;
+	width: 100%;
+	<marquee>
+	background-image: url("rabit.jpg");
+    background-size: 10% 10%;
+    </marquee>
+}
+footer address
+{
+	color:white;
+	position: relative;
+	top:15px;
+	left: 50px;
+}

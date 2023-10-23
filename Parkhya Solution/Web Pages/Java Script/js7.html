@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>.innerHTML</title>
+	<script type="text/javascript">
+		function add()
+		{
+			var a=document.getElementById("one").type;
+
+			if(a=="password")
+			{
+				document.getElementById("one").type="text";
+				document.getElementById("btn").innerHTML="Hide";
+			}
+			else
+			{
+				document.getElementById("one").type="password";
+				document.getElementById("btn").innerHTML="Show";	
+			}
+		}
+	</script>
+</head>
+<body>
+		<input type="password" id="one" value="">
+		<button onclick="add()" id="btn">Show</button>
+</body>
+</html>

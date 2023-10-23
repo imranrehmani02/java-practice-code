@@ -1,0 +1,16 @@
+127.0.0.1 - - [01/Aug/2019:17:23:12 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:23:13 +0530] "GET /Ecommerce/ HTTP/1.1" 200 231
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:23:20 +0530] "GET /Ecommerce/admin.html HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:23:33 +0530] "GET /Ecommerce/Alogin?id=admin&pwd=123456 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:23:33 +0530] "GET /Ecommerce/adminhome.html HTTP/1.1" 200 354
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:23:36 +0530] "GET /Ecommerce/show HTTP/1.1" 200 1057
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:23:41 +0530] "GET /Ecommerce/addpro.html HTTP/1.1" 200 688
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:24:10 +0530] "GET /Ecommerce/AddPro?name=cc3&price=25600&category=MOBILE&company=XIAOMI HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:24:16 +0530] "GET /Ecommerce/show HTTP/1.1" 200 1294
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:24:22 +0530] "GET /Ecommerce/updatepro.html HTTP/1.1" 200 627
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:24:25 +0530] "GET /Ecommerce/deletepro.html HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:24:31 +0530] "GET /Ecommerce/ulogin.html HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:24:46 +0530] "GET /Ecommerce/Ulogin?email=ali@g.com&password=12345656%2B HTTP/1.1" 200 335
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:25:05 +0530] "GET /Ecommerce/Ulogin?email=ali@g.com&password=123456 HTTP/1.1" 200 335
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:26:14 +0530] "GET /Ecommerce/Ulogin?email=mir@m.com&password=123456 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2019:17:26:14 +0530] "GET /Ecommerce/Uhome HTTP/1.1" 200 90

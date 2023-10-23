@@ -1,0 +1,151 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+header
+{
+	height: 100px;
+	width: 100%;
+	background-color: skyblue;
+	border-top: blue dotted;
+}
+
+nav
+{
+	height: 50px;
+	width: 100%;
+	background-color: #2078bd;
+}
+
+#banner
+{
+	height: 200px;
+	width: 100%;
+}
+
+#gents
+{
+	height: 80px;
+	width: 100%;
+	background-color: skyblue; 
+}
+
+#one
+{
+	height: 200px;
+	width: 100%;
+	background-color: #acccd0; 
+}
+
+#one1
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#one2
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#one3
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#one4
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#gap
+{
+	height: 30px;
+	width: 100%;
+	background-color: skyblue;
+}
+
+#one02
+{
+	height: 200px;
+	width: 100%;
+	background-color: #acccd0; 	
+}
+
+#one5
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#one6
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#one7
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#one8
+{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+
+#ge
+{
+	height: 3px;
+	width: 100%;
+	background-color: black;
+}
+
+#ladies
+{
+	height: 80px;
+	width: 100%;
+	background-color: skyblue; 
+}
+nav a
+{
+	color: blue;
+	background-color: white;
+	font-size: 25px;
+	padding: 7px;
+	position: relative;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 90px;
+
+}
+
+nav a:hover
+{
+	color:white;
+	background: #919496;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+footer
+{
+	height: 100px;
+	width: 100%;
+	background-color: #cfe0e2;
+}
